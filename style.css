@@ -116,12 +116,4 @@ strong{
 
 .end{
     height: 400px;
-}
-
-html {
-    scroll-behavior: smooth;
-  }
-   
-:target {
-    scroll-margin-top: .8em;
-  }
+ }
